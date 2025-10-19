@@ -1,0 +1,7 @@
+{
+  "name": "EcoScan – Smart Waste Classification Assistant",
+  "description": "An AI-powered web application that uses Google’s Gemini API to help users identify and categorize waste items by analyzing images, promoting responsible disposal and environmental awareness.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
